@@ -1,0 +1,17 @@
+{
+  "name": "Bluetooth Era",
+  "short_name": "Bluetooth Era",
+  "description": "Nostalgic Bluetooth-era radio — songs we shared phone to phone. Free, no login.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#061018",
+  "theme_color": "#061018",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 180" role="img" aria-label="Bluetooth Era">
+  <defs>
+    <linearGradient id="eraGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3ec6ff" />
+      <stop offset="45%" stop-color="#4f7dff" />
+      <stop offset="100%" stop-color="#ff2d55" />
+    </linearGradient>
+  </defs>
+  <text
+    x="24"
+    y="118"
+    fill="#ffffff"
+    font-family="Bebas Neue, Syne, sans-serif"
+    font-size="118"
+    letter-spacing="0.04em"
+  >Bluetooth</text>
+  <text
+    x="545"
+    y="118"
+    fill="url(#eraGrad)"
+    font-family="Bebas Neue, Syne, sans-serif"
+    font-size="118"
+    letter-spacing="0.04em"
+  >Era</text>
+</svg>
